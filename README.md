@@ -1,7 +1,6 @@
 # Form Drag and Drop
 
-JavaScript file to progressively enhance a file upload form if Yahoo's BrowserPlus is installed.  
-The [input type="file"] tag is replaced with a desktop drag+drop enabled [div].
+JavaScript file to progressively enhance a file upload form if Yahoo's BrowserPlus is installed.  The [input type="file"] tag is replaced with a desktop drag+drop enabled [div].
 
 ## BrowserPlus Services
 
